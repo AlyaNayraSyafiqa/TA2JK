@@ -1,6 +1,7 @@
 # TA2JK
 
 **Link Youtube:** https://youtu.be/ZN60YNRQlic
+**Link Path Packet Tracer:** TA2_PJK_ALYA NAYRA SYAFIQA_2315061001.pkt
 
 ## Penjelasan
 
